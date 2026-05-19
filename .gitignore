@@ -9,6 +9,7 @@ venv/
 env/
 
 # Generated data
+outputs/
 *.xlsx
 *.csv
 *.json
